@@ -1,16 +1,15 @@
-## Hi there 👋
+# عصر گرافیک (GraphicTime) | مرجع تخصصی فایل‌های گرافیکی و منابع دانشگاهی
 
-<!--
-**graphictime/graphictime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+وب‌سایت **[عصر گرافیک](https://graphictime.shop/)** یکی از جامع‌ترین پلتفرم‌های آموزشی و گرافیکی در ایران است که با هدف تأمین منابع مطالعاتی استاندارد برای دانشجویان و فایل‌های لایه‌باز برای طراحان راه‌اندازی شده است.
 
-Here are some ideas to get you started:
+## 📚 بخش آموزشی و دانشگاهی
+در این بخش، کامل‌ترین آرشیو منابع درسی که به صورت اختصاصی توسط تیم تحریریه گردآوری و تدوین شده‌اند، ارائه می‌گردد:
+* **[دانلود جزوات دانشگاهی و خلاصه کتاب‌ها](https://graphictime.shop/university-pamphlets/)**: شامل نکات طلایی امتحانی، خلاصه فصول کتب مرجع، و جزوات دست‌نویس اساتید برتر در رشته‌های مهندسی، علوم پایه، علوم انسانی و پزشکی.
+* **نمونه سوالات تستی و تشریحی با پاسخنامه**: مجموعه سوالات پایان‌ترم و کنکور کارشناسی ارشد به همراه حل‌المسائل کامل.
+* **[مقالات و راهنمای آموزشی](https://graphictime.shop/articles/)**: بررسی منابع درسی و روش‌های مطالعه هدفمند.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎨 بخش طراحی و گرافیک
+* **[دانلود طرح‌های لایه باز و وکتور](https://graphictime.shop/graphics/)**: مجموعه فایل‌های PSD، وکتورهای گرافیکی، پوستر، کارت ویزیت و المان‌های طراحی با کیفیت بالا.
+
+---
+🔗 **وب‌سایت رسمی:** [https://graphictime.shop/](https://graphictime.shop/)
